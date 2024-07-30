@@ -16,7 +16,7 @@ body, html {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    transform: scale(2);
+    transform: scale(2.1);
 
    
 }
@@ -157,7 +157,7 @@ span{
 }
 
 h5 {
-    background-image: linear-gradient(hsl(252, 100%, 67%) , hsl(241, 81%, 54%));
+    background-color: hsl(224, 30%, 27%);
     color: white;
     border-radius: 20px;
     padding: 6px;
