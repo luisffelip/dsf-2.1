@@ -16,7 +16,7 @@ body, html {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    transform: scale(2.3);
+    transform: scale(2.1);
 
    
 }
@@ -184,15 +184,14 @@ h5 {
     #sum {
         margin-left: -0.2rem;
         font-size: 12px;
-        margin-top: -1px;
+        margin-top: 10px;
     }
 
     #roxo {
         position: fixed;
-        top: 190px;
-        margin: auto;
-        
-        height: 190px;
+        top: 205px;
+        margin: auto;  
+        height: 181px;
         width: 45vw;
         border-radius: 0 0 22px 22px;
     }
@@ -202,7 +201,7 @@ h5 {
     }
 
     #sumario {
-        margin-top: 300px;
+        margin-top: 270px;
         border: none;
         box-shadow: none;
     }
