@@ -189,7 +189,7 @@ h5 {
 
     #roxo {
         position: fixed;
-        top: 191px;
+        top: 181px;
         margin: auto;  
         height: 181px;
         width: 45vw;
@@ -207,8 +207,9 @@ h5 {
     }
 
     #caixas {
-        width: 200px;
-        margin-left: -17px;
+        width: 170px;
+        margin: auto;
+        margin-left: -6px;
     }
 
     #con {
